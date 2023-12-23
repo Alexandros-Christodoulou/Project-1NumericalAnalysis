@@ -1,5 +1,10 @@
+import rootFindingMethodsASK1.RootFindingMethods;
+
+
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        RootFindingMethods ask1 =new RootFindingMethods();
+        //ask1.runAll();
     }
 }
